@@ -1,4 +1,26 @@
 section > img {
     width: 22rem;
     border-radius: 20px;
+<<<<<<< HEAD
 }
+=======
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+}
+
+header, nav, main, aside, footer {
+    padding: 2rem;
+}
+
+nav ul {
+    list-style: none;
+}
+>>>>>>> c8c8e8068d4ad466817e633c13bcb80b6425a862
